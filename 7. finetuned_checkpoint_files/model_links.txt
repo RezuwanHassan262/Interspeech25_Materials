@@ -1,12 +1,12 @@
-[All Model Links: ](https://drive.google.com/drive/u/4/folders/1i2RKToELaMErcJXGg0u27gQCVifHItUK)
+All Model Links: https://drive.google.com/drive/u/4/folders/1i2RKToELaMErcJXGg0u27gQCVifHItUK
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[1. W2V2LM: ](https://drive.google.com/drive/folders/1XuOCQvj7EmEvBJC3XB7pvgDxzv_W0nft?usp=drive_link)
+1. W2V2LM: https://drive.google.com/drive/folders/1XuOCQvj7EmEvBJC3XB7pvgDxzv_W0nft?usp=drive_link
 
-[2. Whisper Medium (Default): ](https://drive.google.com/drive/folders/1O2wcG1QGPR3MYzZ96Ek_9NXomcoODcS3?usp=drive_link)
+2. Whisper Medium (Default): https://drive.google.com/drive/folders/1O2wcG1QGPR3MYzZ96Ek_9NXomcoODcS3?usp=drive_link
 
-[3. PX12: ](https://drive.google.com/drive/folders/1KrX6adFKSj0ib5P8ncd5GR5V8wXJ-xS1?usp=drive_link)
+3. PX12: https://drive.google.com/drive/folders/1KrX6adFKSj0ib5P8ncd5GR5V8wXJ-xS1?usp=drive_link
 
-[4. Wav2Vec 2.0 Large (Default): ](https://drive.google.com/drive/folders/16H1SQo5V-d0-17z8IDtbxcj52hc2MzAC?usp=drive_link)
+4. Wav2Vec 2.0 Large (Default): https://drive.google.com/drive/folders/16H1SQo5V-d0-17z8IDtbxcj52hc2MzAC?usp=drive_link
 
