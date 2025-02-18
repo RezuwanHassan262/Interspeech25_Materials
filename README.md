@@ -25,12 +25,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cdf2b9df-1537-45ba-b2ae-b3b450ca3e2a" alt="Gender Distribution" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ef286d4f-7dff-4c94-86cd-0476d2d674e9" alt="Topic Distribution" width="400"/></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/ef286d4f-7dff-4c94-86cd-0476d2d674e9" alt="Topic Distribution" width="100%"/></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/cdf2b9df-1537-45ba-b2ae-b3b450ca3e2a" alt="Gender Distribution" width="100%"/></td>
   </tr>
   <tr>
-    <td align="center"><i>Gender distribution across the dataset</i></td>
     <td align="center"><i>Topic distribution of audio recordings</i></td>
+    <td align="center"><i>Gender distribution across the dataset</i></td>
   </tr>
 </table>
 
