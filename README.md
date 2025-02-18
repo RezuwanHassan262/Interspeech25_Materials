@@ -6,7 +6,7 @@
 **Regional-Speech** is an extensive **Bangla Speech Recognition Dataset** that enables benchmarking **Automatic Speech Recognition (ASR)** models under regional dialectal variations. This dataset captures spontaneous speech data from various regions across **Bangladesh**, ensuring diversity in phonetics, lexicon, and prosody. This repo has all the codes and relevant files/resources behind the development of the regional speech dataset
 
 <img src="https://github.com/user-attachments/assets/2f64606d-ebae-4dfc-beb0-740bb2d32b82" alt="District Coverage Map" width="700"/>
-*Map showing the districts covered in the Regional-Speech dataset*
+<p><i>Map showing the districts covered in the Regional-Speech dataset</i></p>
 
 ## 🎯 Project Goal
 
