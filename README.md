@@ -8,11 +8,31 @@
 <img src="https://github.com/user-attachments/assets/2f64606d-ebae-4dfc-beb0-740bb2d32b82" alt="District Coverage Map" width="700"/>
 <p><i>Map showing the districts covered in the Regional-Speech dataset</i></p>
 
-## 🎯 Project Goal
+## 🎯 Project Goals
 
 - Develop a **high-quality, annotated speech corpus** covering multiple Bangla dialects.
 - Benchmark **ASR models** to enhance speech technology in regional Bangla.
 - Create an **open-source dataset** for researchers and developers.
+
+  ## 🗣️ Dataset Features
+
+- **100+ hours** of validated transcribed spontaneous speech
+- Natural conversations covering **12 distinct dialectal regions**
+- Balanced gender representation across regions
+- Diverse acoustic environments (indoor/outdoor recordings)
+- Transcriptions validated by native dialect speakers and linguistic experts
+- Rich metadata including regional statistics and linguistic features
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cdf2b9df-1537-45ba-b2ae-b3b450ca3e2a" alt="Gender Distribution" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ef286d4f-7dff-4c94-86cd-0476d2d674e9" alt="Topic Distribution" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><i>Gender distribution across the dataset</i></td>
+    <td align="center"><i>Topic distribution of audio recordings</i></td>
+  </tr>
+</table>
 
 ---
 
